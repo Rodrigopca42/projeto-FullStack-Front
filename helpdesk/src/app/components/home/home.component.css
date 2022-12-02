@@ -2,8 +2,11 @@
 
 .card{
     width: 90%;
-    margin:auto;
-    background-color: white;    
+    margin:1rem auto 2rem auto;    
+    background-color: white; 
+    border-radius: .5rem; 
+    border: 1px solid rgb(161, 159, 159);  
+    box-shadow: 5px 3px 3px 1px #777;
 }
 
 .img{
